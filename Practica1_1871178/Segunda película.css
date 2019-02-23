@@ -1,0 +1,83 @@
+<html>
+	<head>
+		<title> Segunda película </title>
+	</head>
+
+<body>
+
+<style>
+body {background-color: #f0f0f0;}
+h1   {color: rgba(255, 99, 71, 1);}
+p    {color: hsl(0, 0%, 0%);}
+p {
+  border: 1px solid hsla(9, 100%, 64%, 1);
+}
+#menu{
+background-color: #000;
+}
+#menu ul{
+
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+#menu ul li{
+display: inline-block;
+
+}
+
+#menu ul li a{
+color:white;
+display: block;
+padding: 10px 205px;
+text-decoration: none;
+}
+
+#menu ul li a:hover{
+background-color: #42B881;
+}
+
+</style>
+
+<div id="menu">
+    <ul>
+
+        <li><a href="#A¿De que trata?">¿De que trata?</a></li>
+        <li><a href="Datos Curiosos.html">Datos Curiosos</a></li>
+	<li><a href="Segunda película.html">Segunda película</a></li>
+
+    </ul>
+</div>
+
+<hr></hr> 
+
+<h1> Segunda parte del Laberinto del Fauno </h1>
+
+	<img src="2.jpg">
+
+<br>
+<br>
+
+<a href="https://www.youtube.com/watch?v=4Zh8r-CJSHU" target="_blank" style="">Ver trailer...</a>
+
+	<p>Guillermo del Toro posee, y eso nadie lo pone en duda, un universo visual de especial riqueza, otra cosa es cuando que el revestimiento, o apariencia, de sus filmes corra parejo a unas tesis profundas. Como mucho, en la mayoría de los casos, se quedan simplemente en el apunte de algo que se adivina importante. Por ello, probablemente, y sin olvidar su simplista mensaje, Mimic sea quizá su película más lograda o al menos la que menos altibajos presenta. </p>
+
+
+	<p>El laberinto del fauno intenta, unir la historia fantástica de Ofelia en busca de las clásicas tres pruebas que deben ser superadas y la de Mercedes, la ama de llaves del improvisado cuartel, y que en realidad colabora con los maquis, siendo su hermano uno de los cabecillas del movimiento. Se montan en paralelo las ensoñaciones y aventuras de Ofelia en su mundo fantástico, con las vivencias de Mercedes en el mundo real. Las tres pruebas que debe pasar la niña se corresponden con las acciones que ejecuta el personaje de Mercedes. La transición de unas acciones a otras se produce por barridos o encadenados sobre árboles u otros objetos. </p>
+
+
+	<p>Ofelia deberá matar al sapo para “que un árbol casi eterno vuelva a crecer”, ocultarse del monstruo que le ofrece tentadoramente una mesa llena de ricas viandas para tomar una daga y sacrificar a un ser inocente para poder ella convertirse en un ser poderoso. Su renuncia a este último punto confiere la salvación del futuro y también la suya, ya que se demuestra que esta prueba era una trampa. El símbolo de este último no sacrificio es claro: el futuro (el bebé) debe ser salvado, aunque sea entregado por el capitán del ejercito a los caquis, que lo aceptan advirtiéndole que nunca sabrá nada de su existencia. El padre, o uno de los padres generadores del nuevo estado, concede la alternativa a los grupos perseguidos que serán quienes protejan el tiempo futuro. Ni siquiera quedará el recuerdo de ese reloj que se paró cuando él murió (como la historia del padre del capitán y que él niega). </p>
+
+
+	<p>Ficción y realidad intentan unirse en el relato sin conseguirlo, hasta el punto que por momentos parece que nos encontramos ante dos historias totalmente diferentes. Ni siquiera lo irreal se une a lo real como ocurriera en Sleepy Hollow de Tim Burton. Y cito este filme simplemente por ver cómo no todo aquél que procede del mundo del tebeo tiene que llegar a proponer, en sus películas, unas propuestas idénticas a las que utilizó en otro medio; de lo que se trata es de algo muy diferente: quedarse con uno de ambos ambientes e impregnar el otro del primero.</p>
+
+
+	<p>En esta película, visualmente tan cuidada, sorprenden algunas cosas, como por ejemplo el comienzo con ese escudo que parece recién pintado en la puerta del coche o los nuevos e impecables trajes que ostentan los militares. Y algunas chirriantes o exageradas interpretaciones, aunque en algún caso esté en función de la idea que se quiere transmitir. </p>
+
+<hr></hr> 
+
+</body>
+
+</html>
+

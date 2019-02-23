@@ -1,0 +1,113 @@
+<html>
+	<head>
+		<title> EL LABERINTO DEL FAUNO </title>
+	</head>
+
+
+<body>
+
+<hr></hr> 
+
+<style>
+body {background-color: #f0f0f0;}
+h1   {color: rgba(255, 99, 71, 1);}
+p    {color: hsl(0, 0%, 0%);}
+p {
+  border: 1px solid hsla(9, 100%, 64%, 1);
+}
+h2   {color: rgb(60, 60, 60);}
+
+#menu{
+background-color: #000;
+}
+#menu ul{
+
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+#menu ul li{
+display: inline-block;
+
+}
+
+#menu ul li a{
+color:white;
+display: block;
+padding: 10px 205px;
+text-decoration: none;
+}
+
+#menu ul li a:hover{
+background-color: #42B881;
+}
+
+</style>
+
+
+<h1> El Laberinto del Fauno</h1>
+
+<input type="text" id="datetimepicker"/>
+
+
+<div id="menu">
+    <ul>
+
+        <li><a href="#A¿De que trata?">¿De que trata?</a></li>
+        <li><a href="Datos Curiosos.html">Datos Curiosos</a></li>
+	<li><a href="Segunda película.html">Segunda película</a></li>
+
+    </ul>
+</div>
+
+<br>
+
+
+<h2><ins> ¿De que trata?</ins> </h2>
+
+	<img src="FAUNO.jpg">
+
+<br>
+<br>
+
+<select>
+<option value="Seleccione">Seleccione una opción...</option>
+<option value="https://www.youtube.com/watch?v=gpEh4O8Hb5Y">Ver trailer...</option>
+<option value="https://www.espinof.com/criticas/guillermo-del-toro-el-laberinto-del-fauno-la-obra-maestra">Ver critica...</option>
+</select>
+
+<br>
+
+
+
+		<p> El Laberinto del Fauno es un film que mezcla el drama con la fantasía. Ofelia, personaje principal, es una niña de trece años, amante de la literatura fantástica; esta niña viaja con su madre enferma de la ciudad a un pueblo para encontrarse con su padrastro Marcos Vidal, un capitán del comando de la policía Franquista Española. En este pueblo Ofelia comienza a descubrir la fantasía gracias a un hada madrina, quien la lleva a un laberinto donde se encontrara con un Fauno, el cual le revela que ella no es quien cree ser, sino que es una princesa llamada Moanna, y que además tendrá que ir a su reino para encontrarse con los suyos. Para lograr este objetivo tendrá que cumplir varias misiones antes de la luna llena. Ofelia hace lo imposible para cumplir lo encomendado por el fauno, ya que el ambiente que la rodeaba era de sufrimiento e incomprensión, principalmente por por parte de su cruel padrastro, e incluso por su propia madre, quien le impedía leer sus libros de fantasía por temor a su esposo. </p>
+
+
+		<p> La trama se desarrolla en un pueblo del pirineo Aragonés, una cordillera que está situada entre España y Francia. La historia se da en tiempos de la post guerra civil española, en el año 1944. El bando sublevado, quien resulta vencedor en la guerra civil, todavía continua en conflicto armado con los guerrilleros republicanos, los llamados del monte. El capitán Marcos Vidal, quien esta destacado en un comando de ese pueblo es quien representa este conflicto histórico que se introduce en la trama. </p>
+
+<a href="https://www.rexpelis.com/pelicula/el-laberinto-del-fauno" target="_blank" style="">Ver película online...</a>
+
+
+<br>
+<br>
+<br>
+<br>
+
+<textarea name="comentarios" rows="1" cols="40">Escribe aquí tus comentarios...</textarea>
+
+<button>
+Enviar
+</button>
+
+<button>
+Cancelar
+</button>
+
+<hr></hr> 
+
+</body>
+
+</html>
+
+
